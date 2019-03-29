@@ -1,4 +1,4 @@
-GREEN='\e[1;32m'
+GREEN='\e[0;36m'
 BLUE='\e[1;34m'
 YELLOW='\e[0;33m'
 NO_COLOR='\e[0m' #disable any colors

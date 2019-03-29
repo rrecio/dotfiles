@@ -1,4 +1,6 @@
 
-alias l='ls -lhG'
-alias ll='ls -lahG'
-
+alias l='ls -lhGF'
+alias ll='ls -lahGF'
+alias gs='git status'
+alias gd='git diff'
+alias gl='git log --graph --all'
